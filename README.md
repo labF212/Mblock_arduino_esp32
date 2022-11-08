@@ -13,8 +13,11 @@ Entradas:
 -AD4 : Botão 3
 
 Saídas digital ou tamb:
+
 -DI4 : Led vermelho
+
 -DI5 : Led verde
+
 -DI6 : Led amarelo
 
 Programar o Shield com o Makeblock 5 em Linux (apenas blocos):
