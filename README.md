@@ -1,7 +1,7 @@
 # arduino_shield
 Programas de acordo com o Shield da EST
-Entradas:
-
+Entradas (0 a 1023):
+- AI0 : Termómetro
 - AI1 : Potenciómetro 1
 - AI5 : Potenciómetro 2
 - AD2 : Botão 1
