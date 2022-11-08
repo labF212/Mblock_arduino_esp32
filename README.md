@@ -3,6 +3,9 @@ Programas de acordo com o Shield da EST
 Entradas:
 -AI1 : Potenciómetro 1
 -AI5 : Potenciómetro 2
+-AD2 : Botão 1
+-AD3 : Botão 2
+-AD4 : Botão 3
 
 Saídas digital ou tamb:
 -DI4 : Led vermelho
