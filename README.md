@@ -1,4 +1,4 @@
-# arduino_shield
+# Arduino Shield IPS
 Programas de acordo com o Shield da EST
 Entradas (0 a 1023):
 - AI0 : Termómetro
