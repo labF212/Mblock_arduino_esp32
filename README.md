@@ -1,4 +1,4 @@
-# Programar o Shield com o Makeblock 5 em Linux (apenas blocos):
+# Programar o Arduino com o Makeblock 5 em Linux (apenas blocos):
 
 1. Instalar o mlink (https://mblock.makeblock.com/en-us/download/mlink/) (apenas na 1ª utilização)
 2. Dar permissões : sudo chmod a+rw /dev/ttyACM0
