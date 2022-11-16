@@ -1,7 +1,7 @@
 # Programar o Shield com o Makeblock 5 em Linux (apenas blocos):
 
-1 - Instalar o mlink (https://mblock.makeblock.com/en-us/download/mlink/) (apenas na 1ª utilização)
-2 - Dar permissões : sudo chmod a+rw /dev/ttyACM0
+1- Instalar o mlink (https://mblock.makeblock.com/en-us/download/mlink/) (apenas na 1ª utilização)
+2- Dar permissões : sudo chmod a+rw /dev/ttyACM0
 3 - Usar o comando: sudo mblock-mlink start
 4 - Abrir o mblock no Google Chrome: https://ide.mblock.cc/
 5 - Escolher a porta série manualmente: ex: /dev/ttyACM0
