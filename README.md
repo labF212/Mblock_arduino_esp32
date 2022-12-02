@@ -17,10 +17,10 @@ Entradas (0 a 1023):
 - AD3 : Botão 2
 - AD4 : Botão 3
 
-Saídas digital ou então usar PWD (0 a 255):
+Saídas digitais ou então usar PWD (0 a 255):
 
-- DI4 : Led vermelho
-- DI5 : Led verde
-- DI6 : Led amarelo
+- DO4 : Led vermelho
+- DO5 : Led verde
+- DO6 : Led amarelo
 
 
